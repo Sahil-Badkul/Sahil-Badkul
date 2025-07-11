@@ -1,57 +1,74 @@
+
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Sahil Jain</h1>
-<h3 align="center">A forward-thinking Software Engineer with expertise in Full Stack Development & Data Engineering</h3>
+<h3 align="center">Data Engineer | Full-Stack Developer | SQL & ETL Specialist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-badkul&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-badkul" /> </p>
 
-- 🔭 I’m currently working as a **Data Engineer** on [GE Vernova Project](https://www.gevernova.com/)
-- 🚀 Skilled in building scalable **ETL pipelines**, optimizing **SQL** queries, and integrating **Oracle ERP** systems
-- 🌱 I’m learning **FastAPI**, **Docker**, and **CI/CD practices** for backend development
-- 💬 Ask me about **React.js**, **Python**, **Data Pipelines**, or **System Design**
-- 🧠 Exploring the intersection of **Data Engineering + AI Automation**
-- 📫 Reach me at **sahil.badkul371@gmail.com**
-- ⚡ Fun fact: **I mix analytics with aesthetics.**
+---
+
+### 🔥 **What I Bring to the Table**
+- **Data Engineering**: Building scalable ETL pipelines (Airflow/Talend), SQL optimization (87.5% query improvement), Oracle ERP integration
+- **Full-Stack Development**: React.js dashboards, FastAPI backends, and CI/CD automation
+- **Problem Solving**: 600+ LeetCode solutions with a focus on system design and DSA
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahiljain371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahiljain371" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/056happylife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="056happylife" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahil371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil371" height="30" width="40" /></a>
+### 🛠 **Current Focus**
+```text
+▢ Databricks Certified Data Engineer Associate
+▢ Building real-time data pipelines with PySpark  
+▢ Developing a FastAPI microservice for data validation  
+```
+
+### 🏗 **Featured Projects**
+
+#### **Data Engineering**
+[![ETL Pipeline](https://img.shields.io/badge/Repo-ETL_Pipeline-2CA5E0?style=flat&logo=apacheairflow)](https://github.com/sahil-badkul/retail-etl)  
+`Python` `Airflow` `PostgreSQL`  
+- Processed 10K+ daily records with 99.2% accuracy  
+- Automated data quality checks with Great Expectations  
+
+[![SQL Optimizer](https://img.shields.io/badge/Repo-SQL_Optimizer-336791?style=flat&logo=postgresql)](https://github.com/sahil-badkul/sql-optimizer)  
+`SQL` `Python` `DBeaver`  
+- Demonstrated 85%+ query performance gains  
+
+#### **Full-Stack**
+[![Kirana App](https://img.shields.io/badge/Repo-Kirana_App-61DAFB?style=flat&logo=react)](https://github.com/sahil-badkul/kirana)  
+`React` `Firebase` `Chart.js`  
+- Wholesale price tracker with real-time analytics  
+
+---
+
+### 🛠 **Tech Stack**
+#### **Data Engineering**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=white)
+
+#### **Full-Stack**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+#### **Cloud & DevOps**
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-badkul&show_icons=true&theme=radical" alt="stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-badkul&layout=compact&theme=radical" alt="languages" width="45%"/>
 </p>
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-
-  <!-- Backend -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-
-  <!-- Data Engineering -->
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a>
-
-  <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-  <!-- Cloud & Hosting -->
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-
-</p>
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-badkul&show_icons=true&locale=en&layout=compact" alt="sahil-badkul" /></p>
+### 📫 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahiljain371)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/sahil371)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil.badkul371@gmail.com)
