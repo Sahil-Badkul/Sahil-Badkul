@@ -1,7 +1,7 @@
 
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Sahil Jain</h1>
-<h3 align="center">Data Engineer | Full-Stack Developer | SQL & ETL Specialist</h3>
+<h3 align="center">Data Engineer | Full-Stack Developer | Performance optimizer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
